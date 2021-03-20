@@ -5,7 +5,7 @@ const app = require('express')();
 admin.initializeApp();
 
 const config = {
-    apiKey: "AIzaSyAfzjv2IjUad-wctgm7zezOZeTto-OHfCI"
+    apiKey: ""
     // authDomain: "",
     // databaseURL: "",
     // projectId: "",
